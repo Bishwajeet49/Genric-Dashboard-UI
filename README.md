@@ -2,7 +2,7 @@
 
 A clean, responsive, and customizable dashboard template built with React and modern web technologies. This dashboard provides a solid foundation for any admin panel, CRM, analytics platform, or data visualization application.
 
-![Fitizen Organizer Dashboard](./public/dashboard-preview.png)
+
 
 ## Features
 
