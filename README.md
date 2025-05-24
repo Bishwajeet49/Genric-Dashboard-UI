@@ -1,4 +1,4 @@
-# Fitizen Organizer UI - Modern Dashboard Template
+#  Modern Dashboard Template
 
 A clean, responsive, and customizable dashboard template built with React and modern web technologies. This dashboard provides a solid foundation for any admin panel, CRM, analytics platform, or data visualization application.
 
