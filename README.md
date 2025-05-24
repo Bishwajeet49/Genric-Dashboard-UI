@@ -50,7 +50,7 @@ A clean, responsive, and customizable dashboard template built with React and mo
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:3000`
+4. Open your browser and navigate to `http://localhost:3000/dashboard`
 
 ## Building for Production
 
